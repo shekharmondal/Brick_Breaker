@@ -1,0 +1,3 @@
+Hi,
+This is a Brick Breaker game using Java. I have got the idea from several sources on the internet.
+In this I have used several classes to make my code simpler.
